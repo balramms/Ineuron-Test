@@ -1,2 +1,2 @@
 # Ineuron-Test
-Python Sessions By Krish
+Python Sessions By Krish from Ineuron
